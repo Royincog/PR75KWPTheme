@@ -1,0 +1,15 @@
+{
+  "name": "pr75kwptheme",
+  "version": "1.0.0",
+  "description": "This is a theme folder design for PR75K - brand website",
+  "scripts": {
+    "start-tailwind": "npx tailwindcss -i ./tailwind.css -o ./styles/site-base.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
